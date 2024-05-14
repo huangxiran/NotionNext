@@ -65,7 +65,7 @@ const CONFIG = {
     {
       title_1: 'taikongsha',
       img_1: '/images/heo/IMG_202405132046_702x702.png',
-      color_1: '#e69138',
+      color_1: '#cfe2f3',
       title_2: 'Python',
       img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
       color_2: '#ffffff'
